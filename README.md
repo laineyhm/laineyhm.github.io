@@ -2,6 +2,6 @@
 
 Learn to read Sgaw Karen! Download the app and give it a try.
 
-หัดอ่านกะเหรี่ยงสะกอ! ดาวน์โหลดแอพและลองดู
+[NEWEST Sgaw Karen Alpha Tiles App, to test (2.1.2)]()  | 29 August 2024
 
-[Sgaw Karen Alpha Tiles DEMO app, now with audio](https://github.com/laineyhm/laineyhm.github.io/files/10977691/Sgaw.Karen.app.Alpha.Tiles.v1.2.4.zip) | 15 March 2023
+[OLD Sgaw Karen Alpha Tiles App (1.2.4)](https://github.com/laineyhm/laineyhm.github.io/files/10977691/Sgaw.Karen.app.Alpha.Tiles.v1.2.4.zip) | 15 March 2023
